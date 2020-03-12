@@ -1,0 +1,268 @@
+Key,index,Country,Date,Confirmed Cases
+0,0,Afghanistan,1/2020,0
+1,0,Afghanistan,2/2020,6
+2,0,Afghanistan,3/2020,5
+3,1,Algeria,1/2020,0
+4,1,Algeria,2/2020,5
+5,1,Algeria,3/2020,49
+6,2,Argentina,1/2020,0
+7,2,Argentina,2/2020,0
+8,2,Argentina,3/2020,5
+9,3,Armenia,1/2020,0
+10,3,Armenia,2/2020,0
+11,3,Armenia,3/2020,5
+12,4,Australia,1/2020,38
+13,4,Australia,2/2020,474
+14,4,Australia,3/2020,236
+15,5,Austria,1/2020,0
+16,5,Austria,2/2020,19
+17,5,Austria,3/2020,164
+18,6,Azerbaijan,1/2020,0
+19,6,Azerbaijan,2/2020,0
+20,6,Azerbaijan,3/2020,21
+21,7,Bahrain,1/2020,0
+22,7,Bahrain,2/2020,167
+23,7,Bahrain,3/2020,265
+24,8,Belarus,1/2020,0
+25,8,Belarus,2/2020,2
+26,8,Belarus,3/2020,20
+27,9,Belgium,1/2020,0
+28,9,Belgium,2/2020,26
+29,9,Belgium,3/2020,203
+30,10,Bosnia and Herzegovina,1/2020,0
+31,10,Bosnia and Herzegovina,2/2020,0
+32,10,Bosnia and Herzegovina,3/2020,4
+33,11,Brazil,1/2020,0
+34,11,Brazil,2/2020,5
+35,11,Brazil,3/2020,25
+36,12,Cambodia,1/2020,5
+37,12,Cambodia,2/2020,28
+38,12,Cambodia,3/2020,5
+39,13,Cameroon,1/2020,0
+40,13,Cameroon,2/2020,0
+41,13,Cameroon,3/2020,1
+42,14,Canada,1/2020,12
+43,14,Canada,2/2020,230
+44,14,Canada,3/2020,176
+45,15,Chile,1/2020,0
+46,15,Chile,2/2020,0
+47,15,Chile,3/2020,10
+48,16,China,1/2020,38014
+49,16,China,2/2020,1621800
+50,16,China,3/2020,402175
+51,17,Colombia,1/2020,0
+52,17,Colombia,2/2020,0
+53,17,Colombia,3/2020,1
+54,18,Costa Rica,1/2020,0
+55,18,Costa Rica,2/2020,0
+56,18,Costa Rica,3/2020,1
+57,19,Croatia,1/2020,0
+58,19,Croatia,2/2020,18
+59,19,Croatia,3/2020,47
+60,20,Czech Republic,1/2020,0
+61,20,Czech Republic,2/2020,0
+62,20,Czech Republic,3/2020,46
+63,21,Denmark,1/2020,0
+64,21,Denmark,2/2020,5
+65,21,Denmark,3/2020,53
+66,22,Dominican Republic,1/2020,0
+67,22,Dominican Republic,2/2020,0
+68,22,Dominican Republic,3/2020,6
+69,23,Ecuador,1/2020,0
+70,23,Ecuador,2/2020,0
+71,23,Ecuador,3/2020,49
+72,24,Egypt,1/2020,0
+73,24,Egypt,2/2020,16
+74,24,Egypt,3/2020,24
+75,25,Estonia,1/2020,0
+76,25,Estonia,2/2020,3
+77,25,Estonia,3/2020,18
+78,26,Faroe Islands,1/2020,0
+79,26,Faroe Islands,2/2020,0
+80,26,Faroe Islands,3/2020,3
+81,27,Finland,1/2020,3
+82,27,Finland,2/2020,33
+83,27,Finland,3/2020,45
+84,28,France,1/2020,30
+85,28,France,2/2020,461
+86,28,France,3/2020,1720
+87,29,Georgia,1/2020,0
+88,29,Georgia,2/2020,4
+89,29,Georgia,3/2020,17
+90,30,Germany,1/2020,18
+91,30,Germany,2/2020,553
+92,30,Germany,3/2020,1769
+93,31,Gibraltar,1/2020,0
+94,31,Gibraltar,2/2020,0
+95,31,Gibraltar,3/2020,3
+96,32,Greece,1/2020,0
+97,32,Greece,2/2020,16
+98,32,Greece,3/2020,106
+99,33,Hungary,1/2020,0
+100,33,Hungary,2/2020,0
+101,33,Hungary,3/2020,6
+102,34,Iceland,1/2020,0
+103,34,Iceland,2/2020,2
+104,34,Iceland,3/2020,120
+105,35,India,1/2020,2
+106,35,India,2/2020,83
+107,35,India,3/2020,99
+108,36,Indonesia,1/2020,0
+109,36,Indonesia,2/2020,0
+110,36,Indonesia,3/2020,12
+111,37,Iran,1/2020,0
+112,37,Iran,2/2020,1617
+113,37,Iran,3/2020,15019
+114,38,Iraq,1/2020,0
+115,38,Iraq,2/2020,34
+116,38,Iraq,3/2020,168
+117,39,Ireland,1/2020,0
+118,39,Ireland,2/2020,1
+119,39,Ireland,3/2020,33
+120,40,Israel,1/2020,0
+121,40,Israel,2/2020,21
+122,40,Israel,3/2020,94
+123,41,Italy,1/2020,2
+124,41,Italy,2/2020,3967
+125,41,Italy,3/2020,16197
+126,42,Japan,1/2020,55
+127,42,Japan,2/2020,2337
+128,42,Japan,3/2020,1678
+129,43,Jordan,1/2020,0
+130,43,Jordan,2/2020,0
+131,43,Jordan,3/2020,4
+132,44,Kuwait,1/2020,0
+133,44,Kuwait,2/2020,171
+134,44,Kuwait,3/2020,284
+135,45,Latvia,1/2020,0
+136,45,Latvia,2/2020,0
+137,45,Latvia,3/2020,5
+138,46,Lebanon,1/2020,0
+139,46,Lebanon,2/2020,15
+140,46,Lebanon,3/2020,77
+141,47,Lithuania,1/2020,0
+142,47,Lithuania,2/2020,2
+143,47,Lithuania,3/2020,5
+144,48,Luxembourg,1/2020,0
+145,48,Luxembourg,2/2020,1
+146,48,Luxembourg,3/2020,6
+147,49,Macau,1/2020,46
+148,49,Macau,2/2020,276
+149,49,Macau,3/2020,50
+150,50,Malaysia,1/2020,38
+151,50,Malaysia,2/2020,521
+152,50,Malaysia,3/2020,248
+153,51,Mexico,1/2020,0
+154,51,Mexico,2/2020,5
+155,51,Mexico,3/2020,26
+156,52,Morocco,1/2020,0
+157,52,Morocco,2/2020,0
+158,52,Morocco,3/2020,7
+159,53,Nepal,1/2020,7
+160,53,Nepal,2/2020,28
+161,53,Nepal,3/2020,5
+162,54,Netherlands,1/2020,0
+163,54,Netherlands,2/2020,8
+164,54,Netherlands,3/2020,290
+165,55,New Zealand,1/2020,0
+166,55,New Zealand,2/2020,2
+167,55,New Zealand,3/2020,12
+168,56,Nigeria,1/2020,0
+169,56,Nigeria,2/2020,2
+170,56,Nigeria,3/2020,5
+171,57,Norway,1/2020,0
+172,57,Norway,2/2020,23
+173,57,Norway,3/2020,308
+174,58,Oman,1/2020,0
+175,58,Oman,2/2020,22
+176,58,Oman,3/2020,65
+177,59,Others,1/2020,0
+178,59,Others,2/2020,10076
+179,59,Others,3/2020,3528
+180,60,Pakistan,1/2020,0
+181,60,Pakistan,2/2020,10
+182,60,Pakistan,3/2020,25
+183,61,Peru,1/2020,0
+184,61,Peru,2/2020,0
+185,61,Peru,3/2020,1
+186,62,Philippines,1/2020,2
+187,62,Philippines,2/2020,79
+188,62,Philippines,3/2020,17
+189,63,Poland,1/2020,0
+190,63,Poland,2/2020,0
+191,63,Poland,3/2020,7
+192,64,Portugal,1/2020,0
+193,64,Portugal,2/2020,0
+194,64,Portugal,3/2020,30
+195,65,Qatar,1/2020,0
+196,65,Qatar,2/2020,1
+197,65,Qatar,3/2020,34
+198,66,Romania,1/2020,0
+199,66,Romania,2/2020,8
+200,66,Romania,3/2020,25
+201,67,Russia,1/2020,2
+202,67,Russia,2/2020,56
+203,67,Russia,3/2020,26
+204,68,Saudi Arabia,1/2020,0
+205,68,Saudi Arabia,2/2020,0
+206,68,Saudi Arabia,3/2020,13
+207,69,Senegal,1/2020,0
+208,69,Senegal,2/2020,0
+209,69,Senegal,3/2020,15
+210,70,Serbia,1/2020,0
+211,70,Serbia,2/2020,0
+212,70,Serbia,3/2020,1
+213,71,Singapore,1/2020,53
+214,71,Singapore,2/2020,1779
+215,71,Singapore,3/2020,575
+216,72,Slovakia,1/2020,0
+217,72,Slovakia,2/2020,0
+218,72,Slovakia,3/2020,1
+219,73,Slovenia,1/2020,0
+220,73,Slovenia,2/2020,0
+221,73,Slovenia,3/2020,9
+222,74,South Africa,1/2020,0
+223,74,South Africa,2/2020,0
+224,74,South Africa,3/2020,2
+225,75,South Korea,1/2020,36
+226,75,South Korea,2/2020,12116
+227,75,South Korea,3/2020,27823
+228,76,Spain,1/2020,0
+229,76,Spain,2/2020,150
+230,76,Spain,3/2020,1166
+231,77,Sri Lanka,1/2020,5
+232,77,Sri Lanka,2/2020,28
+233,77,Sri Lanka,3/2020,5
+234,78,Sweden,1/2020,1
+235,78,Sweden,2/2020,52
+236,78,Sweden,3/2020,266
+237,79,Switzerland,1/2020,0
+238,79,Switzerland,2/2020,36
+239,79,Switzerland,3/2020,519
+240,80,Thailand,1/2020,94
+241,80,Thailand,2/2020,913
+242,80,Thailand,3/2020,224
+243,81,Togo,1/2020,0
+244,81,Togo,2/2020,0
+245,81,Togo,3/2020,1
+246,82,Tunisia,1/2020,0
+247,82,Tunisia,2/2020,0
+248,82,Tunisia,3/2020,3
+249,83,Ukraine,1/2020,0
+250,83,Ukraine,2/2020,0
+251,83,Ukraine,3/2020,4
+252,84,United Arab Emirates,1/2020,12
+253,84,United Arab Emirates,2/2020,264
+254,84,United Arab Emirates,3/2020,133
+255,85,United Kingdom,1/2020,2
+256,85,United Kingdom,2/2020,240
+257,85,United Kingdom,3/2020,454
+258,86,United States,1/2020,38
+259,86,United States,2/2020,710
+260,86,United States,3/2020,875
+261,87,Vatican City,1/2020,0
+262,87,Vatican City,2/2020,0
+263,87,Vatican City,3/2020,1
+264,88,Vietnam,1/2020,18
+265,88,Vietnam,2/2020,392
+266,88,Vietnam,3/2020,80
