@@ -3,45 +3,48 @@
 -- Create tables
 CREATE TABLE IF NOT EXISTS covid_19
 (
-    Country VARCHAR(100) NOT NULL,
-    confirmed_cases_january2020 INTEGER,
-    confirmed_cases_february2020 INTEGER,
-    confirmed_cases_march2020 INTEGER,
-    total_confirmed_cases BIGINT,
-    PRIMARY KEY(Country)
+    primary_key INTEGER NOT NULL,
+    country_key INTEGER NOT NULL,
+    country VARCHAR(100),
+	date VARCHAR(10),
+    confirmed_cases INTEGER,
+    PRIMARY KEY(primary_key)
 );
 
 CREATE TABLE IF NOT EXISTS weather_data
 (
-    Country VARCHAR(100) NOT NULL,
-    precipitation_january2020 REAL,
-    temp_avg_january2020 REAL,
-    min_temp_january2020 REAL,
-    max_temp_january2020 REAL,
-    precipitation_february2020 REAL,
-    temp_avg_february2020 REAL,
-    min_temp_february2020 REAL,
-    max_temp_february2020 REAL,
-    precipitation_march2020 REAL,
-    " temp_avg_march2020" REAL,
-    min_temp_march2020 REAL,
-    max_temp_march2020 REAL,
-    PRIMARY KEY(Country)
+    primary_key INTEGER NOT NULL,
+    country_key INTEGER NOT NULL,
+    country VARCHAR(100),
+    date VARCHAR(10),
+    average_temp REAL,
+    min_temp REAL,
+    max_temp REAL,
+    precipitation_sum REAL,
+    PRIMARY KEY(primary_key)
 );
 
+CREATE TABLE IF NOT EXISTS country
+(
+    country_key INTEGER NOT NULL,
+    country VARCHAR(100),
+    PRIMARY KEY(country_key)
+);
 
 -- Create FKs
-ALTER TABLE weather_data
-    ADD    FOREIGN KEY (Country)
-    REFERENCES covid_19(Country)
+ALTER TABLE covid_19
+    ADD    FOREIGN KEY (country_key)
+    REFERENCES country(country_key)
     MATCH SIMPLE
 ;
-
-SELECT * 
-FROM covid_19;
-
-SELECT * 
-FROM weather_data;
-
-
-
+    
+ALTER TABLE weather_data
+    ADD    FOREIGN KEY (country_key)
+    REFERENCES country(country_key)
+    MATCH SIMPLE
+;
+    
+--Table Views
+SELECT * FROM country;
+SELECT * FROM covid_19;
+SELECT * FROM weather_data;
