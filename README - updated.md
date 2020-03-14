@@ -3,7 +3,7 @@ Harmony, Robert and Daniel's baller transformation of COVID-19/Weather data whic
 
 We are looking to create a Database of confirmed cases for the Corona Virus combined with Weather Data from those areas to see if there is a correllation between weather and the number of confirmed cases.
 
-# This read me corresponds to the Weather.ipynb and COVID-19.ipynb files.
+# This read me corresponds to the updated covid_weather_transformation_update.ipynb file. 
 
 Step #1 start with a clean environment and import your required dependencies. (separate text file included)
 
